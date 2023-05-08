@@ -1,0 +1,9 @@
+# ignore ide files
+# file: ~/.gitignore_global
+.DS_Store
+.idea
+# ignore ALL .log files
+*.log
+# ignore ALL files in resource in/out
+res/in/
+res/out/

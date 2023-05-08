@@ -1,0 +1,5 @@
+psutil==5.9.5
+pyqt5==5.12.3
+pyqtwebengine==5.12.1
+pandas == 2.0.1
+fernet==1.0.1
