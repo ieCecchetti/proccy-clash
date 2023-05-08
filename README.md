@@ -92,8 +92,8 @@ Token must be inserted in config/mail
  < json_processi> e' il nome del file dei processi che hai messo nelle res/in e non deve contenere l'estenzione. 
 
 ## TODO
-- [ ] Hide/Reduce of the process table and childrens 
-- [ ] Remove extention from filename when cal functions 
+- [ ] Hide/UnHide of the process table and children (with js scripts and a better table)
+- [ ] Remove extension from filename when cal functions 
 - [ ] Filter on extraction
 - [ ] Filter on visualizer
 
