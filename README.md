@@ -1,13 +1,13 @@
 # Proccy-Clash
-Simple project that enable to extract, studi and handle the process running in you laptop. 
-Permits operation as check memory, kill, gathering inflo, close groups of processes and blacklist and withelist a
+Simple project that enable to extract, study and handle the process running in you laptop. 
+Permits operation as check memory, kill, gathering inlo, close groups of processes and blacklist and withelist a
 variety of them.
 It permits also some operations as open shells on the target laptop for more specific and jobs.
 
-The project is just a have-fun project. Im not trying to create a software of any type. Im just having fun starting 
-from the request of a friend of mine of an algorithm about processes. 
+The project is just a 'have-fun' project. Im not trying to create a useful tool, a malware of any type. 
+Im just having some fun studying what can I do with projects info. 
 
-So don't use it in a bad way. Or, I mean. At least don't use that on me then.  
+So don't use it in a bad way. Or, I mean. At least don't use that on me. Peace.  
 
 
 ## Setup
