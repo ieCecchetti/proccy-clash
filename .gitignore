@@ -7,3 +7,4 @@
 # ignore ALL files in resource in/out
 res/in/
 res/out/
+venv
